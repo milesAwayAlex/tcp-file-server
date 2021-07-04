@@ -1,0 +1,7 @@
+Welcome te the file server!
+
+Commands:
+
+  h help - info
+  l list - lists all available files
+  c cat <name> - prints contents of the file with full or partial name match
